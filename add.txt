@@ -1,0 +1,12 @@
+step 1 start
+step 2 variables are a=3 , b=4 ,c=0
+step 3 c=a+b
+step 4 print c
+step 5 stop
+
+step 1 start
+step 2 variables are a , b ,c
+step 3 read a,b
+step 4  c=a+b
+step 5 print c
+step 6 stop
